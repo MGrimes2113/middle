@@ -2,4 +2,4 @@
 # created on September 27th, 2024
 # creator Michael Grimes
 
-head -n 9 ../alkanes/cubane.pbd | tail -n 3
+head -n 9 ../alkanes/cubane.pdb | tail -n 3
